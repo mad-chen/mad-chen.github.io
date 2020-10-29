@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2020/10/23/JavaWeb%E9%BB%91%E9%A9%AC%E6%97%85%E6%B8%B8%E7%BD%91%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B/</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/29/Mybatis%E6%9C%80%E5%BC%BA%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2020-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/10/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2020-10-19</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
